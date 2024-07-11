@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.container {
+    text-align: center;
+    background-color: #d3dcfc;
+    padding: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+#image1 {
+    width: 100px;
+    height: auto;
+    /* Mantiene la proporción de la imagen */
+}
+
+#image2 {
+    width: 200px;
+    height: auto;
+}
+
+#image3 {
+    width: 300px;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
